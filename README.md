@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h2>Things I code with</h2>
-<a target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=#FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=FFFFFF"/></a>
 
 <!--
 **5innim/5innim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
