@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Sion, Backend developer from Korea, living in Seoul!
+I'm Sion, Backend developer from Korea, living in Seoul.
 <h2>Things I code with</h2>
 
 <div>
