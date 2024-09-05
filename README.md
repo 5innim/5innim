@@ -16,6 +16,9 @@
 <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF"/></a>
 <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=FFFFFF"/></a>
 
+
+![5innim's GitHub stats](https://github-readme-stats.vercel.app/api?username=5innim&show_icons=true&theme=onedark)
+
 <!--
 **5innim/5innim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
