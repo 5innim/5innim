@@ -20,6 +20,10 @@
 
 ![5innim's GitHub stats](https://github-readme-stats.vercel.app/api?username=5innim&show_icons=true&theme=highcontrast)
 
+<h2>Tier by Baekjoon</h2>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=5innim)](https://solved.ac/5innim/)
+
 <!--
 **5innim/5innim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
