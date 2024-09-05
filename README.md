@@ -13,7 +13,7 @@ I'm Sion, Backend developer from Korea, living in Seoul.
 </div>
 <div>
 <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonec2&logoColor=FFFFFF"/></a>
-<a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/AWS JUnit5-25A162?style=flat&logo=junit5&logoColor=FFFFFF"/></a>
+<a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=FFFFFF"/></a>
 <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Mockito-25A162?style=flat&logo=Mockito&logoColor=FFFFFF"/></a>
 <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=FFFFFF"/></a>
 <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF"/></a>
