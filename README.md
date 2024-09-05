@@ -6,6 +6,11 @@
 <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=FFFFFF"/></a>
 <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=FFFFFF"/></a>
 <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=FFFFFF"/></a>
+<a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/PostgresSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF"/></a>
+<a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazons3&logoColor=FFFFFF"/></a>
+<a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=FFFFFF"/></a>
+<a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonec2&logoColor=FFFFFF"/></a>
+<a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/AWS JUnit5-25A162?style=flat&logo=junit5&logoColor=FFFFFF"/></a>
 <!--
 **5innim/5innim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
