@@ -18,7 +18,7 @@
 
 <h2>Stats</h2>
 
-![5innim's GitHub stats](https://github-readme-stats.vercel.app/api?username=5innim&show_icons=true&theme=tokyonight)
+![5innim's GitHub stats](https://github-readme-stats.vercel.app/api?username=5innim&show_icons=true&theme=highcontrast)
 
 <!--
 **5innim/5innim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
